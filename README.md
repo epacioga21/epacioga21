@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduard Pacioga
 
-🎓 2nd year CS student @ UPB - ETTI  
+🎓 3rd year CS student @ UPB - ETTI  
 🧠 Passionate about Machine Learning, Software Development and AI  
 🚀 Always learning and experimenting with real-world projects
 
